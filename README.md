@@ -1,10 +1,5 @@
-
-
-Hi 👋, I'm Mansi Kadam
-
-
-Full-Stack Developer in the Making | MERN Stack | Software Engineering Student
-
+<h1 align="center">Hi 👋, I'm Mansi Kadam</h1>
+<h3 align="center">Full-Stack Developer in the Making | MERN Stack | Software Engineering Student</h3>
 
 ---
 
@@ -42,13 +37,13 @@ Full-Stack Developer in the Making | MERN Stack | Software Engineering Student
 
 ### 🚀 Projects
 
-#### 🎥 [Zoom Clone](https://github.com/mansikadam/zoom-clone)
+#### 🎥 [Voxmeet](https://apnafrontend-lcb3.onrender.com)
 > A real-time video conferencing web app built with the MERN stack.
 - 🔹 Peer-to-peer video and audio calls
 - 🔹 Room-based sessions with shareable links
 - 🔹 Built with WebRTC + Socket.io
 
-#### 🏠 [Airbnb Clone](https://github.com/mansikadam/airbnb-clone)
+#### 🏠 [Wanderlust](https://airbnb2-gz7o.onrender.com)
 > A full-stack property listing and booking platform.
 - 🔹 User authentication (JWT)
 - 🔹 Create, edit, and delete property listings
@@ -61,37 +56,38 @@ Full-Stack Developer in the Making | MERN Stack | Software Engineering Student
 ```
 📌 Data Structures & Algorithms (DSA)
 📌 System Design Fundamentals
-
+📌 Advanced React Patterns
 ```
 
 ---
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansi-Kadam-1706&show_icons=true&theme=react" alt="Mansi's GitHub Stats" />
+</p>
 
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansikadam&theme=react" alt="Mansi's GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansikadam)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mansikadam.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansi-kadam-597182371)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mansikadam&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+
+
+
+
+
 
 
 
