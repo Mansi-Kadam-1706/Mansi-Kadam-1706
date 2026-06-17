@@ -61,7 +61,7 @@ Full-Stack Developer in the Making | MERN Stack | Software Engineering Student
 ```
 📌 Data Structures & Algorithms (DSA)
 📌 System Design Fundamentals
-📌 Advanced React Patterns
+
 ```
 
 ---
