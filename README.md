@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mansi-Kadam-1706/Mansi-Kadam-1706/main/ChatGPT%20Image%20Jun%2018%2C%202026%2C%2012_35_48%20PM.png" width="600" />
+  <img src="https://raw.githubusercontent.com/Mansi-Kadam-1706/Mansi-Kadam-1706/main/ChatGPT%20Image%20Jun%2018%2C%202026%2C%2012_35_48%20PM.png" width="750" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mansi Kadam</h1>
