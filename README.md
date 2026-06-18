@@ -1,6 +1,8 @@
 
 <!-- Banner -->
-![MasterHead](https://raw.githubusercontent.com/Mansi-Kadam-1706/Mansi-Kadam-1706/main/ChatGPT%20Image%20Jun%2018%2C%202026%2C%2012_35_48%20PM.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mansi-Kadam-1706/Mansi-Kadam-1706/main/ChatGPT%20Image%20Jun%2018%2C%202026%2C%2012_35_48%20PM.png" width="600" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mansi Kadam</h1>
 <h3 align="center">MERN Stack Developer | Software Engineering Student from India</h3>
