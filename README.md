@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](https://raw.githubusercontent.com/Mansi-Kadam-1706/Mansi-Kadam-1706/main/ChatGPT%20Image%20Jun%2018%2C%202026%2C%2012_35_48%20PM.png)
 
 <h1 align="center">Hi 👋, I'm Mansi Kadam</h1>
 <h3 align="center">MERN Stack Developer | Software Engineering Student from India</h3>
